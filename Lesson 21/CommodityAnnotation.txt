@@ -1,0 +1,3 @@
+String name ----> Commodity - name annotation
+double width ----> Commodity - width annotation
+double length ----> Commodity - length annotation
